@@ -28,4 +28,6 @@ The to_sentence method converts the array to a sentence for us to display.
 
 # Give us feedback on the project and decal below!
 
+The project was good! The decal is going well. I still feel like I'm just pattern matching a lot of stuff but I figure that I'll understand things eventually as I keep getting exposed to more of this?
+
 # Extra credit: Link your Heroku deployed app
